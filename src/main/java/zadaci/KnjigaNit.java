@@ -33,6 +33,7 @@ public class KnjigaNit extends Thread {
 
         do {
             synchronized (knjiga) {
+                // Ceo if mora biti sinhronizovan jer se knjiga.isPrisutna poziva unutar if-a
                 if (knjiga.isPrisutna()) {
 
                     uzeoKnjigu = true;
