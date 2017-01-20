@@ -79,6 +79,10 @@ public class Knjiga {
         this.datumIzdanja = datumIzdanja;
     }
 
+    public Boolean isPrisutna() {
+        return prisutna;
+    }
+
     public void setPrisutna(Boolean prisutna) {
         this.prisutna = prisutna;
     }

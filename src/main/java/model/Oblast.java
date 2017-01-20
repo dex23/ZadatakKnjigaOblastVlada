@@ -65,7 +65,7 @@ public class Oblast {
         this.knjiga = knjiga;
     }
 
-    
+
     @Override
     public String toString() {
         return "Oblast{" +
