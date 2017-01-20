@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bdbf84c1-0622-4722-9c52-bf6acaf5a3b2" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/model/Knjiga.java" afterPath="$PROJECT_DIR$/src/main/java/model/Knjiga.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/model/Oblast.java" afterPath="$PROJECT_DIR$/src/main/java/model/Oblast.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/zadaci/Zadatak1KreiranjeTabela.java" afterPath="$PROJECT_DIR$/src/main/java/zadaci/Zadatak1KreiranjeTabela.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/zadaci/Zadatak2DodavanjeVrednosti.java" afterPath="$PROJECT_DIR$/src/main/java/zadaci/Zadatak2DodavanjeVrednosti.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -58,11 +56,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Zadatak1KreiranjeTabela.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Zadatak1KreiranjeTabela.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/zadaci/Zadatak1KreiranjeTabela.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="67" lean-forward="false" selection-start-line="22" selection-start-column="67" selection-end-line="22" selection-end-column="67" />
+            <state relative-caret-position="527">
+              <caret line="31" column="5" lean-forward="false" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -70,23 +68,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="KnjigaNit.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/zadaci/KnjigaNit.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="101">
-              <caret line="60" column="0" lean-forward="false" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Zadatak2DodavanjeVrednosti.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Zadatak2DodavanjeVrednosti.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/zadaci/Zadatak2DodavanjeVrednosti.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="43" lean-forward="true" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="43" />
+            <state relative-caret-position="-171">
+              <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -411,13 +397,13 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/build.gradle" />
-        <option value="$PROJECT_DIR$/src/main/java/zadaci/Zadatak2DodavanjeVrednosti.java" />
         <option value="$PROJECT_DIR$/src/main/java/zadaci/Zadatak3IzmenaVrednosti.java" />
         <option value="$PROJECT_DIR$/src/main/java/zadaci/Zadatak4BrisanjeVrednosti.java" />
         <option value="$PROJECT_DIR$/src/main/java/model/Oblast.java" />
         <option value="$PROJECT_DIR$/src/main/java/model/Knjiga.java" />
         <option value="$PROJECT_DIR$/src/main/java/zadaci/KnjigaNit.java" />
         <option value="$PROJECT_DIR$/src/main/java/zadaci/Zadatak1KreiranjeTabela.java" />
+        <option value="$PROJECT_DIR$/src/main/java/zadaci/Zadatak2DodavanjeVrednosti.java" />
       </list>
     </option>
   </component>
@@ -920,16 +906,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/zadaci/Zadatak2DodavanjeVrednosti.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="43" lean-forward="true" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="43" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/zadaci/Zadatak3IzmenaVrednosti.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
@@ -982,8 +958,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/zadaci/Zadatak1KreiranjeTabela.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="67" lean-forward="false" selection-start-line="22" selection-start-column="67" selection-end-line="22" selection-end-column="67" />
+        <state relative-caret-position="527">
+          <caret line="31" column="5" lean-forward="false" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/zadaci/Zadatak2DodavanjeVrednosti.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-171">
+          <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
